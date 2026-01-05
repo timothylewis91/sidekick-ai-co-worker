@@ -1,4 +1,4 @@
-# Sidekick — Personal Co-Worker (4_langgraph)
+# Sidekick — Personal Co-Worker 
 
 💡 **Short summary**
 
@@ -9,7 +9,7 @@ Sidekick is a self-evaluating AI assistant that uses a worker→tools→evaluato
 ## 🎯 Problem Statement & Target User
 
 - **Problem:** People need a reliable *multi-step* agent that can use tools (browser, Python, search, files) and evaluate its own answers against user-specified success criteria.
-- **Target user:** Power users / researchers and small teams who want an extensible local or hosted assistant for complex, tool-enabled tasks.
+- **Target user:** Researchers and small teams who want an extensible local or hosted assistant for complex, tool-enabled tasks.
 
 ---
 
