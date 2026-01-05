@@ -146,11 +146,4 @@ Long-term (more effort):
 
 ---
 
-## Contribution & Governance
-
-- Add `CONTRIBUTING.md` with branch & PR rules, test expectations, and a short code style guide
-- Use `pre-commit` hooks and linters (flake8 / black / isort)
-- Keep issues and PRs tagged with `area: ui`, `area: core`, `area: tools` for triage
-
----
 
